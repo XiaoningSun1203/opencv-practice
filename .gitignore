@@ -1,0 +1,7 @@
+# 构建与系统文件
+build/
+cmake-build-*/
+.DS_Store
+*.o
+*.obj
+*.exe
